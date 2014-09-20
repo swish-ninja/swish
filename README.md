@@ -1,4 +1,4 @@
 swish
 =====
 
-A high performance messaging library available natively in multiple language flavors
+A high performance messaging fabric available natively in multiple language flavors. 
