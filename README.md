@@ -2,6 +2,7 @@
 
 A high performance messaging fabric available natively in multiple language flavours. 
 
+
 ##Licensing
 
 The swish library is licensed under the GNU Lesser General Public License V3 plus a static link exception.
