@@ -2,16 +2,6 @@
 
 A high performance messaging fabric available natively in multiple language flavours. 
 
-##Supported Platforms
-
-
-The initial platforms that will be targeted initially are -
-
-- Windows (x86 and x64)
-- Linux (x86 and x64)
-
-Other OS and platform combinations will be targeted at a later date.
-
 ##Licensing
 
 The swish library is licensed under the GNU Lesser General Public License V3 plus a static link exception.
