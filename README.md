@@ -1,8 +1,15 @@
 swish
 =====
 
-A high performance messaging fabric available natively in multiple language flavors. 
+A high performance messaging fabric available natively in multiple language flavours. 
 
+Supported Platforms
+-------------------
+The initial platforms that will be targeted initially are -
+1. Windows (x86 and x64)
+2. Linux (x86 and x64)
+
+Other OS and platform combinations will be targeted at a later date.
 
 Licensing
 =========

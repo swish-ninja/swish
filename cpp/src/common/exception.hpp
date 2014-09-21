@@ -27,7 +27,7 @@ namespace swish {
     namespace common {
 
         /***************************************************************************************
-        The exception class will be the only exception thrown by the library. It will be handled
+        The exception class will be the only exception used in swish. It will be handled
         internally and will NEVER cross the library's boundaries.
 
         Usage:
