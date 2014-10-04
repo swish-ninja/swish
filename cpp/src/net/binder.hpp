@@ -69,8 +69,8 @@ namespace swish {
             /// The handler for all incoming requests.
             message_handler _msg_handler;
 
+            /// The threads that will be running the io_service
             std::vector<boost::shared_ptr<boost::thread> > _threads;
-
         };
     }
 }
